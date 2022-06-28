@@ -45,3 +45,7 @@ python main.py
 - Web application shall be available at http://localhost:3000/
 - Click on get started to enter the web application.
 - You can upload video from sample-videos directory.
+
+# Note
+- You may have to change the method of activating python venv if you are running project on linux.
+- You may have to change the path of python executable binary in `alus-backend\server\routers\ml_out.py` when calling subprocess.
