@@ -1,0 +1,50 @@
+.Navbar {
+  background-image: linear-gradient(to right, #2b95bc, #1a5970);
+  width: 100%;
+  /* font-family: Arial, Helvetica, sans-serif; */
+  display: flex;
+}
+
+.nav-body {
+  background-image: linear-gradient(to right, #2b95bc, #1a5970);
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+
+.title {
+  color: white;
+  font-family: Rosario;
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 80px;
+  padding-left: 30px;
+}
+
+.nav-comp {
+  color: white;
+  font-family: Poppins;
+  font-size: 26;
+  font-weight: 400;
+  display: flex;
+  padding-left: 800px;
+}
+
+.nav-item {
+  padding-right: 90px;
+  color: aliceblue;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 80px;
+}
+
+.font {
+  color: white;
+  width: 40px;
+  transition: linear 50ms;
+}
+
+.font:hover {
+  cursor: pointer;
+  transform: scale(1.12);
+}

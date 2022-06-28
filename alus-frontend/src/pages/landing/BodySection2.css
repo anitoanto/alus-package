@@ -1,0 +1,30 @@
+.FooterImage > img {
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+}
+
+.content {
+  padding-top: 75px;
+  z-index: 2;
+  font-size: 25px;
+  font-family: Poppins;
+  text-align: center;
+  font-weight: 500;
+  z-index: 5;
+  color: aliceblue;
+  padding-bottom: 40px;
+}
+
+.contentContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: 5;
+  padding-bottom: 50px;
+}
+
+.contentContainer > * {
+  z-index: 4;
+}

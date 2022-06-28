@@ -1,0 +1,79 @@
+.land-body {
+  background-image: linear-gradient(to right, #31a1b9, #061c31);
+  width: 100%;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 0;
+}
+
+.main-head {
+  font-family: Poppins;
+  font-size: 58px;
+  color: white;
+  padding-top: 30px;
+  font-weight: 900;
+  z-index: 2;
+}
+
+.main-head-sub {
+  color: #3fc4e0;
+  z-index: 2;
+}
+
+.main-content {
+  color: white;
+  padding: 40px;
+  font-size: 22px;
+  z-index: 2;
+  text-align: center;
+}
+
+.mission {
+  font-size: 25px;
+  color: white;
+  font-family: Poppins;
+  margin-left: -800px;
+  z-index: 2;
+}
+
+.btn-name {
+  color: white;
+  font-size: 15px;
+  padding-top: 60px;
+  z-index: 2;
+}
+
+.btn {
+  border: none;
+  width: 200px;
+  height: 55px;
+  border-radius: 10px;
+  background-color: #3fc5e0;
+}
+
+.btnn {
+  padding-top: 50px;
+  z-index: 1;
+  transition: linear 100ms;
+}
+
+.bg-graphics {
+  width: 100%;
+  margin-top: -40px;
+  position: absolute;
+}
+
+.bg-container {
+  transform: scale(80%);
+}
+
+.btnn:hover {
+  transform: scale(1.03);
+}
+
+.btn:hover {
+  cursor: pointer;
+}

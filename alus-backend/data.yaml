@@ -1,0 +1,9 @@
+train: train/images/ # 128 images
+val: valid/images/  # 128 images
+
+# number of classes
+nc: 8
+
+# class names
+names: [ 'Airbronchograms', 'Alines', 'Blines', 'Bpatch', 'Consolidations', 'Pleura', 'Rib', 'Shadow']
+

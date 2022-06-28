@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap");
+.Lungtitle {
+  text-align: center;
+  color: #439db1;
+}
+
+.Lungtitle2 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.Lungtitle3 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.h3Down {
+  margin-top: -5px;
+}
+
+.sectionContainer {
+  padding: 70px;
+  z-index: 200;
+}
+
+.sectionContainer > * {
+  font-family: "Poppins", sans-serif;
+}

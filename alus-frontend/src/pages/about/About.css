@@ -1,0 +1,85 @@
+.sp-bold {
+  font-weight: 800;
+  font-size: 25px;
+}
+
+.sp-bold > span {
+  color: #3fc4e0;
+}
+
+.about-top-content {
+  margin: auto;
+  padding-top: 40px;
+  /* background-color: red; */
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-around;
+}
+
+li {
+  font-size: 20px;
+}
+
+.overlap-img {
+  /* background-color: red; */
+  width: 60%;
+  margin-top: -400px;
+}
+
+.about-top-content > * {
+  font-family: Poppins;
+}
+
+.sp-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px 30px;
+  width: 70%;
+  margin: auto;
+}
+
+.sp-img {
+  width: 40%;
+}
+
+.sp-content {
+  font-family: Poppins;
+  font-size: 20px;
+  padding: 0px 60px;
+}
+
+.git-link {
+  display: grid;
+  place-items: center;
+  padding: 10px 30px;
+  margin-bottom: 20px;
+}
+
+.git-link > * {
+  font-family: Poppins;
+}
+
+.hb-container {
+  background-color: #3fc4e0;
+  width: 100%;
+  display: grid;
+  place-items: center;
+  height: 250px;
+  margin-top: 50px;
+}
+
+.hb-container > div {
+  width: 80%;
+  text-align: center;
+}
+
+.hb-container > * {
+  font-size: 27px;
+  font-family: Poppins;
+  color: white;
+}

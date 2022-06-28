@@ -1,0 +1,113 @@
+.upload-body {
+  /* position: absolute; */
+  /* left: 30%; */
+  /* top: 18%; */
+  width: 40%;
+  margin: auto;
+  height: 50%;
+
+  background-color: white;
+  border: #539eb6 solid 3px;
+  border-radius: 1px;
+  align-items: center;
+  display: grid;
+  place-items: center;
+  padding-bottom: 20px;
+  z-index: 1;
+  height: 400px;
+}
+
+.upload-btn {
+  height: 50;
+  width: 500;
+
+  background-color: #539eb6;
+  border: #539eb6;
+  border-radius: 25px;
+  padding: 15px 30px;
+  transition: linear 10ms;
+}
+
+.upload-btn:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}
+
+.upload-sec {
+  color: #539eb6;
+  padding: 15px;
+  padding-top: 15px;
+  z-index: 1;
+  transition: linear 100ms;
+}
+
+.btn-content {
+  color: white;
+  font-size: 35;
+  font-weight: 300;
+}
+
+.center-body {
+  padding-top: 75px;
+}
+/* 
+.white-container {
+  background-color: white;
+  height: 50vh;
+} */
+
+.foot > img {
+  display: absolute;
+  bottom: 0;
+  margin-top: -80px;
+  /* height: 200px; */
+  width: 100%;
+  /* margin-top: -15px; */
+  z-index: 0;
+}
+
+.btn-container {
+  /* background-color: red; */
+  display: flex;
+  width: calc(40% + 6px);
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn-placeholder {
+  height: 100px;
+}
+
+.next-btn {
+  color: #26a6c0;
+  padding: 10px;
+  height: 20px;
+  border: #26a6c0 solid 3px;
+  width: 100px;
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  z-index: 1;
+  transition: linear 20ms;
+  /* margin-left: 25%; */
+  margin-top: 50px;
+  /* margin: 20px; */
+}
+
+.next-btn:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
+
+.hiddenInp {
+  display: none;
+}
+
+.select-text {
+  padding-top: 20px;
+  color: black;
+  font-size: 22px;
+  padding-bottom: 70px;
+}

@@ -1,0 +1,19 @@
+.download-container {
+  display: flex;
+  justify-content: flex-end;
+  background-color: white;
+  margin-right: 20px;
+}
+
+.download-btn {
+  background-color: #247a96;
+  padding: 10px 40px;
+  border-radius: 10px;
+  color: white;
+  transition: linear 50ms;
+}
+
+.download-btn:hover {
+  cursor: pointer;
+  transform: scale(1.03);
+}
