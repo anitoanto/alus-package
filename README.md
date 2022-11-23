@@ -64,3 +64,6 @@ python main.py
 4. Refer to http://www.pulseecho.in/alus/covecho/ for more details
 
 #### Acknowledgements:
+
+1. Yolov5, 4.0 release https://github.com/ultralytics/yolov5
+2. Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
