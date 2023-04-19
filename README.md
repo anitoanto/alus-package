@@ -55,7 +55,7 @@ python main.py
 ##### Please see the articles mentioned in Academic references and Acknowledgements that are to be cited for any usage of the code and/or data.
 
 #### ACADEMIC REFERENCES TO BE CITED:
-1. Anito Anto, Linda Rose Jimson, Tanya Rose, Mohammed Jafrin, Mahesh Raveendranatha Panicker, “Software Package for Automated Analysis of Lung Ultrasound Videos,” (Under Review) arXiv link: https://arxiv.org/abs/2208.00620 
+1. Anito Anto, Linda Rose Jimson, Tanya Rose, Mohammed Jafrin, Mahesh Raveendranatha Panicker, “SPAALUV: Software Package for Automated Analysis of Lung Ultrasound Videos,” (Under Review) arXiv link: https://arxiv.org/abs/2208.00620 
 
 2. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “covEcho-Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, (Under Review). arXiv link: https://arxiv.org/abs/2206.10183 
 
