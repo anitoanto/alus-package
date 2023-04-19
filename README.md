@@ -50,6 +50,12 @@ python main.py
 - You may have to change the method of activating python venv if you are running project on linux.
 - You may have to change the path of python executable binary in `alus-backend\server\routers\ml_out.py` when calling subprocess.
 
+# Guide to add new model.
+
+Here is the step by step guide to integrate new model. Please refer: https://github.com/anitoanto/alus-package/blob/main/guide_to_add_new_model.md
+
+<hr>
+
 ##### Code Available under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) (see https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ##### Please see the articles mentioned in Academic references and Acknowledgements that are to be cited for any usage of the code and/or data.
