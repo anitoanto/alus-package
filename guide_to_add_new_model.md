@@ -24,6 +24,6 @@ async def request_ml_out(uniq_id: str):
 
 - Step 4: Modify the returned results from this function to incorporate your results filenames and paths.
 - Step 5: If the filenames are changed, you should also change those in frontend code, inside `Box` React component written in `alus-frontend/src/components/Result/Box.js`.
-- Step 5: If required you can add extra checkbox to toggle visibility for your model results by adding new checkbox code in `alus-frontend/src/components/Result/Box.js`.
+- Step 6: If required you can add extra checkbox to toggle visibility for your model results by adding new checkbox code in `alus-frontend/src/components/Result/Box.js`.
 
 If you have any questions or issues related to integrating a new model, please raise an issue.
