@@ -63,7 +63,7 @@ Here is the step by step guide to integrate new model. Please refer: https://git
 #### ACADEMIC REFERENCES TO BE CITED:
 1. Anito Anto, Linda Rose Jimson, Tanya Rose, Mohammed Jafrin, Mahesh Raveendranatha Panicker, “SPAALUV: Software Package for Automated Analysis of Lung Ultrasound Videos,” (Under Review) arXiv link: https://arxiv.org/abs/2208.00620 
 
-2. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “clungEcho - Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, Elsevier Biomedical Engineering Advances, vol 6 (100094), Nov 2023. https://doi.org/10.1016/j.bea.2023.100094 
+2. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “lungEcho - Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, Elsevier Biomedical Engineering Advances, vol 6 (100094), Nov 2023. https://doi.org/10.1016/j.bea.2023.100094 
 
 3. Roshan P Mathews, Mahesh Raveendranatha Panicker, Abhilash R Hareendranathan, Yale Tung Chen, Jacob L Jaremko, Brian Buchanan, Kiran Vishnu Narayan, Kesavadas C, Greeta Mathews, “Unsupervised multi-latent space reinforcement learning framework for video summarization in ultrasound imaging”, accepted in IEEE Journal of Biomedical and Health Informatics. https://doi.org/10.1109/JBHI.2022.3208779
 
