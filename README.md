@@ -61,13 +61,13 @@ Here is the step by step guide to integrate new model. Please refer: https://git
 ##### Please see the articles mentioned in Academic references and Acknowledgements that are to be cited for any usage of the code and/or data.
 
 #### ACADEMIC REFERENCES TO BE CITED:
-1. Anito Anto, Linda Rose Jimson, Tanya Rose, Mohammed Jafrin, Mahesh Raveendranatha Panicker, “SPAALUV: Software Package for Automated Analysis of Lung Ultrasound Videos,” (Under Review) arXiv link: https://arxiv.org/abs/2208.00620 
+1. Anto, Anito, Linda Rose Jimson, Tanya Rose, Mohammed Jafrin, and Mahesh Raveendranatha Panicker. "SPAALUV: Software Package for Automated Analysis of Lung Ultrasound Videos." SoftwareX 23 (2023): 101460. https://doi.org/10.1016/j.softx.2023.101460
+   
+3. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “lungEcho - Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, Elsevier Biomedical Engineering Advances, vol 6 (100094), Nov 2023. https://doi.org/10.1016/j.bea.2023.100094 
 
-2. Jinu Joseph, Mahesh Raveendranatha Panicker, Yale Tung Chen, Kesavadas Chandrasekharan, Vimal Chacko Mondy, Anoop Ayyappan, Jineesh Valakkada and Kiran Vishnu Narayan, “lungEcho - Resource Constrained Lung Ultrasound Video Analysis Tool for Faster Triaging and Active Learning”, Elsevier Biomedical Engineering Advances, vol 6 (100094), Nov 2023. https://doi.org/10.1016/j.bea.2023.100094 
+4. Mathews, Roshan P., Mahesh Raveendranatha Panicker, Abhilash R. Hareendranathan, Yale Tung Chen, Jacob L. Jaremko, Brian Buchanan, Kiran Vishnu Narayan, Chandrasekharan Kesavadas, and Greeta Mathews. "Unsupervised multi-latent space RL framework for video summarization in ultrasound imaging." IEEE Journal of Biomedical and Health Informatics 27, no. 1 (2022): 227-238. https://doi.org/10.1109/JBHI.2022.3208779 
 
-3. Roshan P Mathews, Mahesh Raveendranatha Panicker, Abhilash R Hareendranathan, Yale Tung Chen, Jacob L Jaremko, Brian Buchanan, Kiran Vishnu Narayan, Kesavadas C, Greeta Mathews, “Unsupervised multi-latent space reinforcement learning framework for video summarization in ultrasound imaging”, accepted in IEEE Journal of Biomedical and Health Informatics. https://doi.org/10.1109/JBHI.2022.3208779
-
-4. Refer to http://www.pulseecho.in/alus/covecho/ for more details
+5. Refer to http://www.pulseecho.in/alus/covecho/ for more details
 
 #### Acknowledgements:
 
