@@ -73,3 +73,4 @@ Here is the step by step guide to integrate new model. Please refer: https://git
 
 1. Yolov5, 4.0 release https://github.com/ultralytics/yolov5
 2. Tzutalin. LabelImg. Git code (2015). https://github.com/tzutalin/labelImg
+# ALUS_package
